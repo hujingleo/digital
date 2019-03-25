@@ -39,7 +39,7 @@ public class StageOne {
     }
 
     /**
-     * 　　如果是3的倍数或者包含3则是Fizz,如果是5的倍数或者包含5则是Buzz,如果既是fizz有事buzz则是FizzBuzz
+     * 　　如果是3的倍数或者包含3则是Fizz,如果是5的倍数或者包含5则是Buzz,如果满足前两个条件则是FizzBuzz
      * 　　* It is observable to allow it to be watched, but only
      * 　　* reports changes when the current set is complete
      */
