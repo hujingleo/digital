@@ -4,13 +4,10 @@ import org.junit.Test;
 
 /**
  * Copyright (C), Su you technology co. LTD
- * FileName: Test.java
- * 类的详细说明
- * @author 类创建者姓名
- * @Date    创建日期
-
+ * FileName: StageOne.java
+ * @author leo
+ * @Date    2019-03-25
  * @version 1.00
-
  */
 public class StageOne {
     @Test
