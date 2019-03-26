@@ -23,7 +23,7 @@ public class Stage2 {
      * Elapsed time (print1 to 10000): 80ms
      */
     @Test
-    public void printFizzBuzzPro() {
+    public void printFizzBuzz() {
         try {
             for (int i = 1; i <= 100; i++) {
                 String s = String.valueOf(i);
