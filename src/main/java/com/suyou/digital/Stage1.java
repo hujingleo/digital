@@ -1,4 +1,4 @@
-package test;
+package com.suyou.digital;
 
 import org.junit.Test;
 
