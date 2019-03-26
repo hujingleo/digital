@@ -4,18 +4,17 @@ import org.junit.Test;
 
 /**
  * Copyright (C), Su you technology co. LTD
- * FileName: StageOne.java
+ * FileName: Task.java
  *
  * @author leo
  * @version 1.00
  * @Date 2019-03-25
  */
-public class StageOne {
+public class Task {
 
     /**
-     * 　　* A class representing a set of packet and byte counters
-     * 　　* It is observable to allow it to be watched, but only
-     * 　　* reports changes when the current set is complete
+     * 　　print numbers from 1 to 100,for the multiples of three print "Fizz" instead of the number and fro the multiples of five print "Buzz",
+     *      For numbers which are multiples of both three and five print "FizzBuzz".
      */
     @Test
     public void printFizzBuzz() {
@@ -39,9 +38,9 @@ public class StageOne {
     }
 
     /**
-     * 　　如果是3的倍数或者包含3则是Fizz,如果是5的倍数或者包含5则是Buzz,如果满足前两个条件则是FizzBuzz
-     * 　　* It is observable to allow it to be watched, but only
-     * 　　* reports changes when the current set is complete
+     * 　　a number is Fizz if it is divisible by 3 or if it has 3 in it;
+     *      a number is Buzz if it is divisible by 5 or if it has 5 in it;
+     *      a number is FizzBuzz if it satisfy above 2 criterias together.
      */
     @Test
     public void printFizzBuzzPro() {
