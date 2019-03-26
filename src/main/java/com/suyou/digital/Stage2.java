@@ -2,10 +2,6 @@ package com.suyou.digital;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Vector;
-
 /**
  * Copyright (C), Su you technology co. LTD
  * FileName: Stage2.java
